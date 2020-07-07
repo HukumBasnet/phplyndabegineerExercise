@@ -19,7 +19,84 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d60fa68-8edf-4ff0-9286-e676db3a483c" name="Default Changelist" comment="" />
+    <list default="true" id="6d60fa68-8edf-4ff0-9286-e676db3a483c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 2/02_01/tz_identifiers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 2/02_02/my_phpinfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 2/02_03-final/default_timezone.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 2/02_03/default_timezone.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 3/03_02/datetime_procedural_demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 3/03_03/datetime_demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 3/03_04/datetimezone_demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 3/03_05-final/dst_transitions_demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 3/03_05/dst_transitions_demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_01/timezone_selection/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_01/timezone_selection/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_02/timezone_selection/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_02/timezone_selection/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_02/tz_identifiers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_03/timezone_selection/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_03/timezone_selection/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_04/timezone_selection/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_04/timezone_selection/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_05-final/timezone_selection/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_05-final/timezone_selection/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_05/timezone_selection/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 4/04_05/timezone_selection/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_01/timezone_sensitivity/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_01/timezone_sensitivity/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_02/timezone_sensitivity/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_02/timezone_sensitivity/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_03/timezone_sensitivity/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_03/timezone_sensitivity/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_04/timezone_sensitivity/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_04/timezone_sensitivity/maintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_04/timezone_sensitivity/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_05-final/timezone_sensitivity/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_05-final/timezone_sensitivity/maintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_05-final/timezone_sensitivity/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_05/timezone_sensitivity/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_05/timezone_sensitivity/maintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 5/05_05/timezone_sensitivity/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_01/current_world_times/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_01/current_world_times/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_02/current_world_times/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_02/current_world_times/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_03/25_largest_cities.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_03/current_world_times/cities.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_03/current_world_times/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_03/current_world_times/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_04/current_world_times/cities.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_04/current_world_times/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_04/current_world_times/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_05-final/current_world_times/cities.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_05-final/current_world_times/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_05-final/current_world_times/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_05/current_world_times/cities.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_05/current_world_times/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 6/06_05/current_world_times/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_01/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_01/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_02/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_02/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_03/timezone_calculator/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_03/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_03/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_04/timezone_calculator/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_04/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_04/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_05/timezone_calculator/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_05/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_05/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_06/timezone_calculator/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_06/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_06/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_07-final/timezone_calculator/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_07-final/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_07-final/timezone_calculator/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_07/timezone_calculator/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_07/timezone_calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_EasyPHP_Time_Zone/Exercise Files/Chapter 7/07_07/timezone_calculator/styles.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594154607614</updated>
-      <workItem from="1594154608941" duration="2401000" />
+      <workItem from="1594154608941" duration="2716000" />
     </task>
     <servers />
   </component>
